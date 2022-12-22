@@ -8,7 +8,7 @@ print("   [ 3 ] > Letras Mai/Min + códigos")
 print("   [ 4 ] > Letras Mai/Min + Números + Códigos")
 print("   [ 5 ] > Sair do programas")
 print("")
-print("By: 7H3uz")
+print("By: TheMariano")
 A = input("Alternativa: ")
 
 if A == "1" or A == "01":
